@@ -1,2 +1,3 @@
 # AirbnbAccomodationTrendsBerlin
-analyzing an Airbnb dataset from http://insideairbnb.com/get-the-data.html to show accomodation trends in Berlin (Germany
+The analysis conducted showed the Airbnb accommodation trends among the different areas of Berlin by using a dataset with the information of March 2021 from http://insideairbnb.com/get-the-data.html and by using the public domain license https://creativecommons.org/publicdomain/zero/1.0/ 
+The chosen dataset showed possible limitations caused by the Covid-19 Pandemic and the local regulation. During the analysis the dataset showed that most of the listings were unavailable and different hotels tried to create a listing for their room and a couple of listings were location for photoshoots or other activities than overnight stay.
